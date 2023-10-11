@@ -1,0 +1,91 @@
+{
+"StaticFiles": {
+  "System\\SharpDX.Mathematics.dll": {
+    "SavePath": "System\\SharpDX.Mathematics.dll",
+    "MD5": "551070a80b922abb2aa1e8544a499453",
+    "Download": "https://raw.github.com/SkipperSharp/Skipper/master/System/SharpDX.Mathematics.dll"
+  },
+  "System\\Skipper.ToolKit.dll": {
+    "SavePath": "System\\Skipper.ToolKit.dll",
+    "MD5": "ebef26b91f3a7d9ee1d50d856e7781dd",
+    "Download": "https://raw.github.com/SkipperSharp/Skipper/master/System/Skipper.ToolKit.dll"
+  },
+  "System\\Skipper.Sandbox.dll": {
+    "SavePath": "System\\Skipper.Sandbox.dll",
+    "MD5": "f9025d9c86339d316668e10e8ad8657d",
+    "Download": "https://raw.github.com/SkipperSharp/Skipper/master/System/Skipper.Sandbox.dll"
+  },
+  "System\\Skipper.SDK.dll": {
+    "SavePath": "System\\Skipper.SDK.dll",
+    "MD5": "dd8f9657cfdd31dca4938b7b97d71c59",
+    "Download": "https://raw.github.com/SkipperSharp/Skipper/master/System/Skipper.SDK.dll"
+  },
+  "System\\Newtonsoft.Json.dll": {
+    "SavePath": "System\\Newtonsoft.Json.dll",
+    "MD5": "081d9558bbb7adce142da153b2d5577a",
+    "Download": "https://raw.github.com/SkipperSharp/Skipper/master/System/Newtonsoft.Json.dll"
+  },
+  "System\\SharpDX.Direct3D9.dll": {
+    "SavePath": "System\\SharpDX.Direct3D9.dll",
+    "MD5": "53a492085dcae951d8baffef413be32f",
+    "Download": "https://raw.github.com/SkipperSharp/Skipper/master/System/SharpDX.Direct3D9.dll"
+  },
+  "System\\SharpDX.dll": {
+    "SavePath": "System\\SharpDX.dll",
+    "MD5": "9b6ba40b44bdaaf2f6f712047d89b6a3",
+    "Download": "https://raw.github.com/SkipperSharp/Skipper/master/System/SharpDX.dll"
+  },
+  "System\\SharpDX.XInput.dll": {
+    "SavePath": "System\\SharpDX.XInput.dll",
+    "MD5": "b254be74e4e4ee39df1048a1fbfe50d4",
+    "Download": "https://raw.github.com/SkipperSharp/Skipper/master/System/SharpDX.XInput.dll"
+  },
+},
+
+"Patches": {
+	"a085f5799f8d878da363a17c7ef486d8": {
+    "Files": {
+      "System\\Skipper.dll": {
+        "SavePath": "System\\Skipper.dll",
+        "MD5": "1747b0f020246a9b83d47007fd77fc7d",
+        "Download": "https://raw.github.com/SkipperSharp/Skipper/master/Core/13.20.1/Skipper.dll"
+      },
+      "System\\D3dx9_43": {
+        "SavePath": "System\\D3dx9_43",
+        "MD5": "d789ac089d5fc6432a92ea2c608dccff",
+        "Download": "https://raw.github.com/SkipperSharp/Skipper/master/Core/13.20.1/D3dx9_43"
+      }
+    }
+  },
+},
+"Plugins": {
+	"Scripts\\NET\\Activator.skipper": {
+    "SavePath": "Scripts\\NET\\Activator.skipper",
+    "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/Activator.skipper"
+  },
+	"Scripts\\NET\\MaDiy.skipper": {
+    "SavePath": "Scripts\\NET\\MaDiy.skipper",
+    "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/MaDiy.skipper"
+  },
+  	"Scripts\\NET\\MoonEvade.skipper": {
+    "SavePath": "Scripts\\NET\\MoonEvade.skipper",
+    "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/MoonEvade.skipper"
+  },
+    "Scripts\\NET\\Champion.skipper": {
+    "SavePath": "Scripts\\NET\\Champion.skipper",
+    "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/Champion.skipper"
+  },
+    "Scripts\\NET\\LeviathanAIO.skipper": {
+    "SavePath": "Scripts\\NET\\LeviathanAIO.skipper",
+    "Download": "https://raw.githubusercontent.com/EubbOwO/Skipper/main/LeviathanAIO.skipper"
+  },
+    "Scripts\\NET\\LeviathanAwareness.skipper": {
+    "SavePath": "Scripts\\NET\\LeviathanAwareness.skipper",
+    "Download": "https://raw.githubusercontent.com/EubbOwO/Skipper/main/LeviathanAwareness.skipper"
+  },
+    "Scripts\\NET\\OrbwalkerAndEvade.skipper": {
+    "SavePath": "Scripts\\NET\\OrbwalkerAndEvade.skipper",
+    "Download": "https://raw.githubusercontent.com/deadnotdeath/Skipper/main/OrbwalkerAndEvade.skipper"
+  },
+},
+}

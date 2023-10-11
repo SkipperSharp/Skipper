@@ -1,0 +1,130 @@
+{
+  "core": [
+    {
+      "md5": [
+        "648a56b43fdfc0416478c75baa0a617f"
+      ],
+      "build": "11",
+      "changes": [
+        "Fixed Permashow Drawing",
+		"Updated For Hotfix",
+      ]
+    },
+  {
+      "md5": [
+        "459f09fcd9305e3383e5946388fd3dfb"
+      ],
+      "build": "10",
+      "changes": [
+        "Enhanced Frame Rate (FPS)",
+		"Ongoing Enhancements for Drawing Functionality",
+      ]
+    },
+    	{
+      "md5": [
+        "262ecc1939bb34c3019654e6d8212f0a"
+      ],
+      "build": "10",
+      "changes": [
+        "Add IsMagicImmune",
+		"Add IsPhysicalImmune",
+		"Fixed IsInvulnerable",
+		"Reworked AntiGapcloser",
+		"Improved Fps",
+      ]
+    },
+  	{
+      "md5": [
+        "62ebde4279212d92ea6eead60f38b033"
+      ],
+      "build": "9",
+      "changes": [
+        "Add OnSpellImpact",
+		"Fixed OnStopCast",
+		"Add ChampionId",
+		"Improved Fps",
+		"Improved ZoomHack",
+      ]
+    },
+	{
+      "md5": [
+        "44b68f74834bd29248dbbf91715362fe"
+      ],
+      "build": "8",
+      "changes": [
+        "Add characterHash",
+		"Add SpellNameHash",
+		"Add BuffHash",
+		"Improved HasBuff",
+		"Improved GetBuffCount",
+		"Improved GetBuff",
+		"Improved GetSpellSlotFromName",
+      ]
+    },
+    {
+      "md5": [
+        "78da0e21f7ac8481fa00353a78c6e42e"
+      ],
+      "build": "7",
+      "changes": [
+        "Fixed Glow Issue's"
+      ]
+    },
+  {
+      "md5": [
+        "2ef6e22cc1796004f9fc3ba6a565f35c"
+      ],
+      "build": "6",
+      "changes": [
+        "Fixed Some Bug's"
+      ]
+    },
+  {
+      "md5": [
+        "a38c07a2eb1d507f4b44a1438991f110"
+      ],
+      "build": "5",
+      "changes": [
+        "Updated Smite Dmg"
+      ]
+    },
+  {
+      "md5": [
+        "a2a3b453e2e8b9be0e81a559fe79a341"
+      ],
+      "build": "4",
+      "changes": [
+        "Improved Fps",
+		"Fixed External predictions"
+      ]
+    },
+  	{
+      "md5": [
+        "b08f8bfe57de82691921bdae5efbde3f"
+      ],
+      "build": "3",
+      "changes": [
+        "Updated For New Patch"
+      ]
+    },
+	{
+      "md5": [
+        "a2a3b453e2e8b9be0e81a559fe79a341"
+      ],
+      "build": "2",
+      "changes": [
+        "Fixed Some Crash's"
+      ]
+    },
+    {
+      "md5": [
+        "be16a5d64aec042b1f744119cbcac5eb"
+      ],
+      "build": "1",
+      "changes": [
+        "First Loader Release"
+      ]
+    },
+    
+  ]
+}
