@@ -43,7 +43,7 @@
 },
 
 "Patches": {
-	"73b643ab3bfdff565377524f32c20f2a": {
+	"de082c31ac6bb571608012158bd8ae6b": {
     "Files": {
       "System\\Skipper.dll": {
         "SavePath": "System\\Skipper.dll",
