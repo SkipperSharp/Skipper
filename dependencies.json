@@ -83,6 +83,10 @@
     "SavePath": "Scripts\\NET\\LeviathanAwareness.skipper",
     "Download": "https://raw.githubusercontent.com/EubbOwO/Skipper/main/LeviathanAwareness.skipper"
   },
+      "Scripts\\NET\\SkipperAIO.skipper": {
+    "SavePath": "Scripts\\NET\\SkipperAIO.skipper",
+    "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/SkipperAIO.skipper"
+  },
     "Scripts\\NET\\OrbwalkerAndEvade.skipper": {
     "SavePath": "Scripts\\NET\\OrbwalkerAndEvade.skipper",
     "Download": "https://raw.githubusercontent.com/deadnotdeath/Skipper/main/OrbwalkerAndEvade.skipper"
