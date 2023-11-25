@@ -58,42 +58,46 @@
     }
   },
 },
-"Plugins": {
-	"Scripts\\NET\\Activator.skipper": {
-    "SavePath": "Scripts\\NET\\Activator.skipper",
-    "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/Activator.skipper"
-  },
-	"Scripts\\NET\\MaDiy.skipper": {
-    "SavePath": "Scripts\\NET\\MaDiy.skipper",
-    "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/MaDiy.skipper"
-  },
-  	"Scripts\\NET\\MoonEvade.skipper": {
-    "SavePath": "Scripts\\NET\\MoonEvade.skipper",
-    "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/MoonEvade.skipper"
-  },
+  "Plugins": {
+    "Scripts\\NET\\Activator.skipper": {
+      "SavePath": "Scripts\\NET\\Activator.skipper",
+      "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/Activator.skipper"
+    },
+    "Scripts\\NET\\MaDiy.skipper": {
+      "SavePath": "Scripts\\NET\\MaDiy.skipper",
+      "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/MaDiy.skipper"
+    },
+    "Scripts\\NET\\MoonEvade.skipper": {
+      "SavePath": "Scripts\\NET\\MoonEvade.skipper",
+      "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/MoonEvade.skipper"
+    },
     "Scripts\\NET\\Champion.skipper": {
-    "SavePath": "Scripts\\NET\\Champion.skipper",
-    "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/Champion.skipper"
-  },
+      "SavePath": "Scripts\\NET\\Champion.skipper",
+      "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/Champion.skipper"
+    },
     "Scripts\\NET\\LeviathanAIO.skipper": {
-    "SavePath": "Scripts\\NET\\LeviathanAIO.skipper",
-    "Download": "https://raw.githubusercontent.com/EubbOwO/Skipper/main/LeviathanAIO.skipper"
-  },
+      "SavePath": "Scripts\\NET\\LeviathanAIO.skipper",
+      "Download": "https://raw.githubusercontent.com/EubbOwO/Skipper/main/LeviathanAIO.skipper"
+    },
+    "Scripts\\NET\\ImpPred.skipper": {
+      "SavePath": "Scripts\\NET\\ImpPred.skipper",
+      "Download": "https://raw.githubusercontent.com/EubbOwO/Skipper/main/ImpPred.skipper"
+    },
     "Scripts\\NET\\LeviathanAwareness.skipper": {
-    "SavePath": "Scripts\\NET\\LeviathanAwareness.skipper",
-    "Download": "https://raw.githubusercontent.com/EubbOwO/Skipper/main/LeviathanAwareness.skipper"
-  },
-      "Scripts\\NET\\ReportAIO.skipper": {
-    "SavePath": "Scripts\\NET\\ReportAIO.skipper",
-    "Download": "https://raw.githubusercontent.com/EubbOwO/Skipper/main/ReportAIO.skipper"
-  },
-      "Scripts\\NET\\SkipperAIO.skipper": {
-    "SavePath": "Scripts\\NET\\SkipperAIO.skipper",
-    "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/SkipperAIO.skipper"
-  },
+      "SavePath": "Scripts\\NET\\LeviathanAwareness.skipper",
+      "Download": "https://raw.githubusercontent.com/EubbOwO/Skipper/main/LeviathanAwareness.skipper"
+    },
+    "Scripts\\NET\\ReportAIO.skipper": {
+      "SavePath": "Scripts\\NET\\ReportAIO.skipper",
+      "Download": "https://raw.githubusercontent.com/EubbOwO/Skipper/main/ReportAIO.skipper"
+    },
+    "Scripts\\NET\\SkipperAIO.skipper": {
+      "SavePath": "Scripts\\NET\\SkipperAIO.skipper",
+      "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/SkipperAIO.skipper"
+    },
     "Scripts\\NET\\OrbwalkerAndEvade.skipper": {
-    "SavePath": "Scripts\\NET\\OrbwalkerAndEvade.skipper",
-    "Download": "https://raw.githubusercontent.com/deadnotdeath/Skipper/main/OrbwalkerAndEvade.skipper"
+      "SavePath": "Scripts\\NET\\OrbwalkerAndEvade.skipper",
+      "Download": "https://raw.githubusercontent.com/deadnotdeath/Skipper/main/OrbwalkerAndEvade.skipper"
+    }
   },
-},
 }
