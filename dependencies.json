@@ -17,7 +17,7 @@
   },
   "System\\Skipper.SDK.dll": {
     "SavePath": "System\\Skipper.SDK.dll",
-    "MD5": "3ec8b2e22c72918b05b7fc0d275b9ebe",
+    "MD5": "0c25e626a84c1f376e87536bdeeb4e7a",
     "Download": "https://raw.github.com/SkipperSharp/Skipper/master/System/Skipper.SDK.dll"
   },
   "System\\Newtonsoft.Json.dll": {
@@ -47,12 +47,12 @@
     "Files": {
       "System\\Skipper.dll": {
         "SavePath": "System\\Skipper.dll",
-        "MD5": "62a1b467ff715b8df4daef97d80fb588",
+        "MD5": "226ab4bf76e41a5e9a32e85a3b623ed6",
         "Download": "https://raw.github.com/SkipperSharp/Skipper/master/Core/13.23.1/Skipper.dll"
       },
       "System\\D3dx9_43": {
         "SavePath": "System\\D3dx9_43",
-        "MD5": "314ebf0f8486a7d96c35aeb96a7a42d1",
+        "MD5": "ee3b48faa9d08265fc72d08704384a35",
         "Download": "https://raw.github.com/SkipperSharp/Skipper/master/Core/13.23.1/D3dx9_43"
       }
     }
