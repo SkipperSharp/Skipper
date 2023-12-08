@@ -43,17 +43,17 @@
 },
 
 "Patches": {
-	"cc1e1f500c05cbae6e453655b7b6f8b5": {
+	"b179f5f31a4b8dbdcdecdcc3ff763a06": {
     "Files": {
       "System\\Skipper.dll": {
         "SavePath": "System\\Skipper.dll",
         "MD5": "41415661fe7ae728cd09b8c4d12a1634",
-        "Download": "https://raw.github.com/SkipperSharp/Skipper/master/Core/13.23.1/Skipper.dll"
+        "Download": "https://raw.github.com/SkipperSharp/Skipper/master/Core/13.24.1/Skipper.dll"
       },
       "System\\D3dx9_43": {
         "SavePath": "System\\D3dx9_43",
-        "MD5": "ee3b48faa9d08265fc72d08704384a35",
-        "Download": "https://raw.github.com/SkipperSharp/Skipper/master/Core/13.23.1/D3dx9_43"
+        "MD5": "e8cf0813f1b3af409e7c473b10af6430",
+        "Download": "https://raw.github.com/SkipperSharp/Skipper/master/Core/13.24.1/D3dx9_43"
       }
     }
   },
