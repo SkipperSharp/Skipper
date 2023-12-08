@@ -95,9 +95,5 @@
       "SavePath": "Scripts\\NET\\SkipperAIO.skipper",
       "Download": "https://raw.githubusercontent.com/SkipperSharp/Addons/main/SkipperAIO.skipper"
     },
-    "Scripts\\NET\\OrbwalkerAndEvade.skipper": {
-      "SavePath": "Scripts\\NET\\OrbwalkerAndEvade.skipper",
-      "Download": "https://raw.githubusercontent.com/deadnotdeath/Skipper/main/OrbwalkerAndEvade.skipper"
-    }
   },
 }
