@@ -43,7 +43,7 @@
 },
 
   "Patches": {
-    "5cff3011111197bcb0615b610482f7a9": {
+    "2A4C19867FD0D871641BE5B64F88C90D": {
       "Files": {
         "System\\Skipper.dll": {
           "SavePath": "System\\Skipper.dll",
@@ -52,7 +52,7 @@
         },
         "System\\D3dx9_43": {
           "SavePath": "System\\D3dx9_43",
-          "MD5": "d510486a3768262463459e2381e96cb4",
+          "MD5": "cec788b674e44f776844a4a0dda6fd2f",
           "Download": "https://raw.github.com/SkipperSharp/Skipper/master/Core/14.1/D3dx9_43"
         }
       }
