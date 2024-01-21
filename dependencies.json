@@ -47,7 +47,7 @@
       "Files": {
         "System\\Skipper.dll": {
           "SavePath": "System\\Skipper.dll",
-          "MD5": "41415661fe7ae728cd09b8c4d12a1634",
+          "MD5": "838f43f6a4ab32d584b732bf018dae38",
           "Download": "https://raw.github.com/SkipperSharp/Skipper/master/Core/14.1/Skipper.dll"
         },
         "System\\D3dx9_43": {
